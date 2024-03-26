@@ -1,4 +1,4 @@
-export default function printNav(app: HTMLDivElement) {
+export default function printNav() {
   const navContainer: HTMLHeadElement = document.createElement('header');
   navContainer.classList.add('header');
 
@@ -25,5 +25,5 @@ export default function printNav(app: HTMLDivElement) {
 
   navContainer.append(iconImg, nav);
 
-  app.appendChild(navContainer);
+  document.body.prepend(navContainer);
 }
