@@ -94,6 +94,7 @@ input:focus {
 .app {
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: center;
   width: 100vw;
   max-width: 100%;
