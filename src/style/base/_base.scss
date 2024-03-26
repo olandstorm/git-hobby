@@ -90,3 +90,12 @@ input:hover {
 input:focus {
   background-color: $input-bg-focus;
 }
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+  max-width: 100%;
+  min-height: 100vh;
+}
