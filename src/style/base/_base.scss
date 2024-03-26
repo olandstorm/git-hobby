@@ -1,0 +1,92 @@
+$font-type: 'Tauri', sans-serif;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*:focus {
+  outline: 1.5px solid $focus-color;
+}
+
+::placeholder {
+  color: $placeholder-color;
+}
+
+body {
+  font-family: $font-type;
+  background-color: $bg-color;
+  color: $text-color;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+.hidden {
+  display: none !important;
+}
+
+a {
+  text-decoration: none;
+  color: $link-color;
+}
+
+a:hover {
+  color: $link-hover;
+}
+
+a:active {
+  color: $link-active;
+}
+
+a:visited {
+  color: $link-visited;
+}
+
+a:visited:hover {
+  color: $link-hover;
+}
+
+button {
+  background-color: $btn-bg-color;
+  border: 1.5px solid $btn-border-color;
+  color: $btn-text-color;
+  border-radius: 4px;
+  padding: 4px 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: $btn-bg-hover;
+  border: 1.5px solid $btn-border-hover;
+}
+
+button:active {
+  background-color: $btn-bg-active;
+  border: 1.5px solid $btn-border-active;
+}
+
+input {
+  background: $input-bg-color;
+  border: 1.5px solid $input-border-color;
+  color: $input-text-color;
+  border-radius: 4px;
+  padding: 5px 4px;
+}
+
+input:hover {
+  background-color: $input-bg-hover;
+}
+
+input:focus {
+  background-color: $input-bg-focus;
+}
