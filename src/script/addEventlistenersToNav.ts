@@ -1,5 +1,6 @@
 import printContactPage from './printContactPage.ts';
 import printStartPage from './printStartPage.ts';
+import printAboutPage from './printAboutPage.ts';
 
 export default function addEventlistenersToNav(
   homeBtn: HTMLButtonElement,
@@ -10,7 +11,7 @@ export default function addEventlistenersToNav(
     printStartPage();
   });
   aboutBtn.addEventListener('click', () => {
-    // Add logics to click here
+    printAboutPage();
   });
   contactBtn.addEventListener('click', () => {
     printContactPage();
