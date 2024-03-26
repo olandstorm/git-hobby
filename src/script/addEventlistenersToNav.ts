@@ -1,3 +1,4 @@
+import printContactPage from './printContactPage.ts';
 import printStartPage from './printStartPage.ts';
 
 export default function addEventlistenersToNav(
@@ -12,6 +13,6 @@ export default function addEventlistenersToNav(
     // Add logics to click here
   });
   contactBtn.addEventListener('click', () => {
-    // Add logics to click here
+    printContactPage();
   });
 }
