@@ -1,5 +1,11 @@
+import printNav from './printNav.ts';
+
 export default function printStartPage(): void {
-  const mainContainer = document.querySelector('#app');
+  const mainContainer: HTMLDivElement | null = document.querySelector('#app');
+
+  if (mainContainer) {
+    printNav(mainContainer);
+  }
 
   const logoImg: HTMLImageElement = document.createElement('img');
   logoImg.src = './img/travels_logo_color.webp';
