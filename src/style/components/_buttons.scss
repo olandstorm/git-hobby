@@ -1,0 +1,36 @@
+button {
+  background-color: $btn-bg-color;
+  border: 1.5px solid $btn-border-color;
+  color: $btn-text-color;
+  border-radius: 4px;
+  padding: 4px 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: $btn-bg-hover;
+  border: 1.5px solid $btn-border-hover;
+}
+
+button:active {
+  background-color: $btn-bg-active;
+  border: 1.5px solid $btn-border-active;
+}
+
+.nav_button {
+  background-color: transparent;
+  border: none;
+  color: $text-color;
+  font-size: 1.2rem;
+
+  &:active {
+    background-color: transparent;
+    border: none;
+  }
+  &:hover {
+    background-color: transparent;
+    border: none;
+    color: $text-color-dark;
+  }
+}

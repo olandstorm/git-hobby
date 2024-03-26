@@ -55,26 +55,6 @@ a:visited:hover {
   color: $link-hover;
 }
 
-button {
-  background-color: $btn-bg-color;
-  border: 1.5px solid $btn-border-color;
-  color: $btn-text-color;
-  border-radius: 4px;
-  padding: 4px 10px;
-  text-transform: uppercase;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: $btn-bg-hover;
-  border: 1.5px solid $btn-border-hover;
-}
-
-button:active {
-  background-color: $btn-bg-active;
-  border: 1.5px solid $btn-border-active;
-}
-
 input {
   background: $input-bg-color;
   border: 1.5px solid $input-border-color;
@@ -94,8 +74,8 @@ input:focus {
 .app {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   width: 100vw;
   max-width: 100%;
   min-height: 100vh;
+  position: relative;
 }
