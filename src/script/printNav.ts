@@ -1,3 +1,5 @@
+import addEventlistenersToNav from './addEventlistenersToNav.ts';
+
 export default function printNav() {
   const navContainer: HTMLHeadElement = document.createElement('header');
   navContainer.classList.add('header');
@@ -20,6 +22,8 @@ export default function printNav() {
   const contactBtn: HTMLButtonElement = document.createElement('button');
   contactBtn.classList.add('nav_button');
   contactBtn.innerText = 'Contact';
+
+  addEventlistenersToNav(homeBtn, aboutBtn, contactBtn);
 
   nav.append(homeBtn, aboutBtn, contactBtn);
 
