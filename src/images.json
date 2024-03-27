@@ -1,0 +1,178 @@
+{
+    "images": [
+        {
+            "name": "Busy street",
+            "url": "./img/hongkong/IMG_1321.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Hong Kong"
+        },
+        {
+            "name": "Forest trail",
+            "url": "./img/hongkong/IMG_1322.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Hong Kong"
+        },
+        {
+            "name": "Mountain view",
+            "url": "./img/hongkong/IMG_1328.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Hong Kong"
+        },
+        {
+            "name": "Mountain trail",
+            "url": "./img/hongkong/IMG_1330.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Hong Kong"
+        },
+        {
+            "name": "Downtown",
+            "url": "./img/hongkong/IMG_1335.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Hong Kong"
+        },
+        {
+            "name": "Old temple",
+            "url": "./img/hongkong/IMG_1336.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Hong Kong"
+        },
+        {
+            "name": "Street art",
+            "url": "./img/hongkong/IMG_1337.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Hong Kong"
+        },
+        {
+            "name": "Trail",
+            "url": "./img/italy/IMG_8850.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Italy"
+        },
+        {
+            "name": "Mountain flower",
+            "url": "./img/italy/IMG_8939.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Italy"
+        },
+        {
+            "name": "Mountain flowerbed",
+            "url": "./img/italy/IMG_8971.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Italy"
+        },
+        {
+            "name": "Mountain valley",
+            "url": "./img/italy/IMG_9096.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Italy"
+        },
+        {
+            "name": "Feilds of green",
+            "url": "./img/italy/IMG_9098.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Italy"
+        },
+        {
+            "name": "Donkeys",
+            "url": "./img/italy/IMG_9104.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Italy"
+        },
+        {
+            "name": "Golden temple",
+            "url": "./img/italy/IMG_3523.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Japan"
+        },
+        {
+            "name": "Waterfall",
+            "url": "./img/italy/IMG_3525.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Japan"
+        },
+        {
+            "name": "Old statue",
+            "url": "./img/italy/IMG_9623.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Japan"
+        },
+        {
+            "name": "Tree in garden",
+            "url": "./img/italy/IMG_9723.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Japan"
+        },
+        {
+            "name": "Stones in garden",
+            "url": "./img/italy/IMG_9738.webp",
+            "alt": "Placeholder alt-text",
+            "category": "Japan"
+        },
+        {
+            "name": "Joshua Tree shadow",
+            "url": "./img/italy/IMG_7459.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Joshua Tree",
+            "url": "./img/italy/IMG_7461.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Zion mountain",
+            "url": "./img/italy/IMG_8410.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Angels Landing",
+            "url": "./img/italy/IMG_8411.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Artists Palette",
+            "url": "./img/italy/IMG_8713.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Yosemite lake",
+            "url": "./img/italy/IMG_8876.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Half Dome",
+            "url": "./img/italy/IMG_8879.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Forest walk",
+            "url": "./img/italy/IMG_8880.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Elephant seals",
+            "url": "./img/italy/IMG_8978.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Sunset beach",
+            "url": "./img/italy/IMG_8984.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        },
+        {
+            "name": "Waterfall Highway One",
+            "url": "./img/italy/IMG_8985.webp",
+            "alt": "Placeholder alt-text",
+            "category": "USA"
+        }
+    ]
+}
