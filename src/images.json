@@ -1,177 +1,206 @@
 {
     "images": [
         {
+            "id": 1,
             "name": "Busy street",
             "url": "./img/hongkong/IMG_1321.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Busy street in Hong Kong",
             "category": "Hong Kong"
         },
         {
+            "id": 2,
             "name": "Forest trail",
             "url": "./img/hongkong/IMG_1322.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Scenic forest trail in Hong Kong",
             "category": "Hong Kong"
         },
         {
+            "id": 3,
             "name": "Mountain view",
             "url": "./img/hongkong/IMG_1328.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Breathtaking mountain view in Hong Kong",
             "category": "Hong Kong"
         },
         {
+            "id": 4,
             "name": "Mountain trail",
             "url": "./img/hongkong/IMG_1330.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Invigorating mountain trail in Hong Kong",
             "category": "Hong Kong"
         },
         {
+            "id": 5,
             "name": "Downtown",
             "url": "./img/hongkong/IMG_1335.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Vibrant downtown area in Hong Kong",
             "category": "Hong Kong"
         },
         {
+            "id": 6,
             "name": "Old temple",
             "url": "./img/hongkong/IMG_1336.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Ancient temple in Hong Kong",
             "category": "Hong Kong"
         },
         {
+            "id": 7,
             "name": "Street art",
             "url": "./img/hongkong/IMG_1337.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Colorful street art in Hong Kong",
             "category": "Hong Kong"
         },
         {
+            "id": 8,
             "name": "Trail",
             "url": "./img/italy/IMG_8850.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Serene trail in Italy",
             "category": "Italy"
         },
         {
+            "id": 9,
             "name": "Mountain flower",
             "url": "./img/italy/IMG_8939.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Beautiful mountain flowers in Italy",
             "category": "Italy"
         },
         {
+            "id": 10,
             "name": "Mountain flowerbed",
             "url": "./img/italy/IMG_8971.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Colorful mountain flowerbed in Italy",
             "category": "Italy"
         },
         {
+            "id": 11,
             "name": "Mountain valley",
             "url": "./img/italy/IMG_9096.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Expansive mountain valley in Italy",
             "category": "Italy"
         },
         {
-            "name": "Feilds of green",
+            "id": 12,
+            "name": "Fields of green",
             "url": "./img/italy/IMG_9098.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Lush fields of green in Italy",
             "category": "Italy"
         },
         {
+            "id": 13,
             "name": "Donkeys",
             "url": "./img/italy/IMG_9104.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Charming donkeys in Italy",
             "category": "Italy"
         },
         {
+            "id": 14,
             "name": "Golden temple",
             "url": "./img/italy/IMG_3523.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Majestic golden temple in Japan",
             "category": "Japan"
         },
         {
+            "id": 15,
             "name": "Waterfall",
             "url": "./img/italy/IMG_3525.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Breathtaking waterfall in Japan",
             "category": "Japan"
         },
         {
+            "id": 16,
             "name": "Old statue",
             "url": "./img/italy/IMG_9623.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Ancient statue in Japan",
             "category": "Japan"
         },
         {
+            "id": 17,
             "name": "Tree in garden",
             "url": "./img/italy/IMG_9723.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Tranquil tree in a Japanese garden",
             "category": "Japan"
         },
         {
+            "id": 18,
             "name": "Stones in garden",
             "url": "./img/italy/IMG_9738.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Zen stones in a Japanese garden",
             "category": "Japan"
         },
         {
+            "id": 19,
             "name": "Joshua Tree shadow",
             "url": "./img/italy/IMG_7459.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Spectacular shadow of a Joshua Tree in the USA",
             "category": "USA"
         },
         {
+            "id": 20,
             "name": "Joshua Tree",
             "url": "./img/italy/IMG_7461.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Iconic Joshua Tree in the USA",
             "category": "USA"
         },
         {
+            "id": 21,
             "name": "Zion mountain",
             "url": "./img/italy/IMG_8410.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Majestic Zion mountain in the USA",
             "category": "USA"
         },
         {
+            "id": 22,
             "name": "Angels Landing",
             "url": "./img/italy/IMG_8411.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Breathtaking Angels Landing in the USA",
             "category": "USA"
         },
         {
+            "id": 23,
             "name": "Artists Palette",
             "url": "./img/italy/IMG_8713.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Vibrant Artists Palette in the USA",
             "category": "USA"
         },
         {
+            "id": 24,
             "name": "Yosemite lake",
             "url": "./img/italy/IMG_8876.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Scenic Yosemite lake in the USA",
             "category": "USA"
         },
         {
+            "id": 25,
             "name": "Half Dome",
             "url": "./img/italy/IMG_8879.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Iconic Half Dome in the USA",
             "category": "USA"
         },
         {
+            "id": 26,
             "name": "Forest walk",
             "url": "./img/italy/IMG_8880.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Soothing forest walk in the USA",
             "category": "USA"
         },
         {
+            "id": 27,
             "name": "Elephant seals",
             "url": "./img/italy/IMG_8978.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Charming elephant seals in the USA",
             "category": "USA"
         },
         {
+            "id": 28,
             "name": "Sunset beach",
             "url": "./img/italy/IMG_8984.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Stunning sunset beach in the USA",
             "category": "USA"
         },
         {
+            "id": 29,
             "name": "Waterfall Highway One",
             "url": "./img/italy/IMG_8985.webp",
-            "alt": "Placeholder alt-text",
+            "alt": "Majestic Waterfall Highway One in the USA",
             "category": "USA"
         }
     ]
