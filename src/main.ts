@@ -4,5 +4,9 @@ import printNav from './script/printNav.ts';
 import printFooter from './script/printFooter.ts';
 
 printNav();
-printStartPage();
+
+const mainContainer: HTMLDivElement | null = document.querySelector('#app');
+if (mainContainer) {
+  printStartPage(mainContainer);
+}
 printFooter();
