@@ -1,5 +1,6 @@
 import filterImagesByCategory from './filterImagesByCategory.ts';
 import Images from './lib/Images.ts';
+import { printImages } from './printImages.ts';
 
 export default function printCategoryContainer(
   images: Images[],
@@ -14,5 +15,7 @@ export default function printCategoryContainer(
     mainContainer.append(categoryContainer);
 
     const imagesInCategory = filterImagesByCategory(images, category);
+
+    printImages(categoryContainer, imagesInCategory);
   });
 }
