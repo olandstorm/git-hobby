@@ -7,11 +7,15 @@ const images: Images[] = imagesData.images;
 export default function printStartPage(mainContainer: HTMLDivElement): void {
   mainContainer.innerHTML = '';
 
+  const logoContainer = document.createElement('div');
+  logoContainer.classList.add('logo_container');
+
   const logoImg: HTMLImageElement = document.createElement('img');
   logoImg.src = './img/travels_logo_color.webp';
   logoImg.classList.add('logo_img');
 
-  mainContainer.appendChild(logoImg);
+  logoContainer.appendChild(logoImg);
+  mainContainer.appendChild(logoContainer);
 
   printCategoryContainer(images, mainContainer);
 }

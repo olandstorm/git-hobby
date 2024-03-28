@@ -8,7 +8,10 @@ export default function addEventlistenersToNav(
   contactBtn: HTMLButtonElement
 ) {
   homeBtn.addEventListener('click', () => {
-    printStartPage();
+    const mainContainer: HTMLDivElement | null = document.querySelector('#app');
+    if (mainContainer) {
+      printStartPage(mainContainer);
+    }
   });
   aboutBtn.addEventListener('click', () => {
     printAboutPage();
