@@ -23,6 +23,8 @@ body {
   font-family: $font-type;
   background-color: $bg-color;
   color: $text-color;
+  min-height: 100vh;
+  position: relative;
 }
 
 ol,
@@ -79,4 +81,5 @@ input:focus {
   width: 100vw;
   max-width: 100%;
   position: relative;
+  padding-bottom: 250px;
 }
