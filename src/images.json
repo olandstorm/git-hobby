@@ -59,7 +59,7 @@
         {
             "id": 9,
             "name": "Mountain flower",
-            "url": "./img/italy/IMG_8939.webp",
+            "url": "./img/italy/IMG_8930.webp",
             "alt": "Beautiful mountain flowers in Italy",
             "category": "Italy"
         },
@@ -94,112 +94,112 @@
         {
             "id": 14,
             "name": "Golden temple",
-            "url": "./img/italy/IMG_3523.webp",
+            "url": "./img/japan/IMG_3523.webp",
             "alt": "Majestic golden temple in Japan",
             "category": "Japan"
         },
         {
             "id": 15,
             "name": "Waterfall",
-            "url": "./img/italy/IMG_3525.webp",
+            "url": "./img/japan/IMG_3525.webp",
             "alt": "Breathtaking waterfall in Japan",
             "category": "Japan"
         },
         {
             "id": 16,
             "name": "Old statue",
-            "url": "./img/italy/IMG_9623.webp",
+            "url": "./img/japan/IMG_9623.webp",
             "alt": "Ancient statue in Japan",
             "category": "Japan"
         },
         {
             "id": 17,
             "name": "Tree in garden",
-            "url": "./img/italy/IMG_9723.webp",
+            "url": "./img/japan/IMG_9723.webp",
             "alt": "Tranquil tree in a Japanese garden",
             "category": "Japan"
         },
         {
             "id": 18,
             "name": "Stones in garden",
-            "url": "./img/italy/IMG_9738.webp",
+            "url": "./img/japan/IMG_9738.webp",
             "alt": "Zen stones in a Japanese garden",
             "category": "Japan"
         },
         {
             "id": 19,
             "name": "Joshua Tree shadow",
-            "url": "./img/italy/IMG_7459.webp",
+            "url": "./img/usa/IMG_7459.webp",
             "alt": "Spectacular shadow of a Joshua Tree in the USA",
             "category": "USA"
         },
         {
             "id": 20,
             "name": "Joshua Tree",
-            "url": "./img/italy/IMG_7461.webp",
+            "url": "./img/usa/IMG_7461.webp",
             "alt": "Iconic Joshua Tree in the USA",
             "category": "USA"
         },
         {
             "id": 21,
             "name": "Zion mountain",
-            "url": "./img/italy/IMG_8410.webp",
+            "url": "./img/usa/IMG_8410.webp",
             "alt": "Majestic Zion mountain in the USA",
             "category": "USA"
         },
         {
             "id": 22,
             "name": "Angels Landing",
-            "url": "./img/italy/IMG_8411.webp",
+            "url": "./img/usa/IMG_8411.webp",
             "alt": "Breathtaking Angels Landing in the USA",
             "category": "USA"
         },
         {
             "id": 23,
             "name": "Artists Palette",
-            "url": "./img/italy/IMG_8713.webp",
+            "url": "./img/usa/IMG_8713.webp",
             "alt": "Vibrant Artists Palette in the USA",
             "category": "USA"
         },
         {
             "id": 24,
             "name": "Yosemite lake",
-            "url": "./img/italy/IMG_8876.webp",
+            "url": "./img/usa/IMG_8876.webp",
             "alt": "Scenic Yosemite lake in the USA",
             "category": "USA"
         },
         {
             "id": 25,
             "name": "Half Dome",
-            "url": "./img/italy/IMG_8879.webp",
+            "url": "./img/usa/IMG_8879.webp",
             "alt": "Iconic Half Dome in the USA",
             "category": "USA"
         },
         {
             "id": 26,
             "name": "Forest walk",
-            "url": "./img/italy/IMG_8880.webp",
+            "url": "./img/usa/IMG_8880.webp",
             "alt": "Soothing forest walk in the USA",
             "category": "USA"
         },
         {
             "id": 27,
             "name": "Elephant seals",
-            "url": "./img/italy/IMG_8978.webp",
+            "url": "./img/usa/IMG_8978.webp",
             "alt": "Charming elephant seals in the USA",
             "category": "USA"
         },
         {
             "id": 28,
             "name": "Sunset beach",
-            "url": "./img/italy/IMG_8984.webp",
+            "url": "./img/usa/IMG_8984.webp",
             "alt": "Stunning sunset beach in the USA",
             "category": "USA"
         },
         {
             "id": 29,
             "name": "Waterfall Highway One",
-            "url": "./img/italy/IMG_8985.webp",
+            "url": "./img/usa/IMG_8985.webp",
             "alt": "Majestic Waterfall Highway One in the USA",
             "category": "USA"
         }
