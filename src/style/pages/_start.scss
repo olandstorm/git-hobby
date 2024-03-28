@@ -1,5 +1,10 @@
-.logo_img {
-  width: 100%;
-  max-width: 1000px;
-  align-self: center;
+.logo_container {
+  min-height: calc(100vh - 70px);
+  display: flex;
+
+  .logo_img {
+    width: 100%;
+    max-width: 1000px;
+    align-self: center;
+  }
 }

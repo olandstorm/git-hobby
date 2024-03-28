@@ -11,8 +11,13 @@ export default function printCategoryContainer(
   categoriesSet.forEach((category) => {
     const categoryContainer = document.createElement('div');
     categoryContainer.classList.add('category_container');
-    categoryContainer.textContent = category;
-    mainContainer.append(categoryContainer);
+    const categoryHeader = document.createElement('h2');
+    categoryHeader.innerText = category;
+    categoryHeader.classList.add('category_header');
+
+    categoryContainer.appendChild(categoryHeader);
+
+    mainContainer.appendChild(categoryContainer);
 
     const imagesInCategory = filterImagesByCategory(images, category);
 

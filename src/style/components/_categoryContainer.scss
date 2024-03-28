@@ -1,0 +1,25 @@
+.category_container {
+  margin: 40px;
+  max-width: 1400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+
+  .category_header {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .img_container {
+    max-width: 400px;
+
+    .gallery_img {
+      min-height: 100%;
+      max-width: 100%;
+      object-fit: cover;
+      vertical-align: bottom;
+    }
+  }
+}
