@@ -1,3 +1,4 @@
+import filterImagesByCategory from './filterImagesByCategory.ts';
 import Images from './lib/Images.ts';
 
 export default function printCategoryContainer(
@@ -11,5 +12,7 @@ export default function printCategoryContainer(
     categoryContainer.classList.add('category_container');
     categoryContainer.textContent = category;
     mainContainer.append(categoryContainer);
+
+    const imagesInCategory = filterImagesByCategory(images, category);
   });
 }
