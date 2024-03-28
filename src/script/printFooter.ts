@@ -10,7 +10,7 @@ export default function printFooter() {
 
   const copyrightText: HTMLElement = document.createElement('span');
   copyrightText.classList.add('copyright_text');
-  copyrightText.innerText = '© Oskar Landström 2024';
+  copyrightText.innerText = '&copy; Oskar Landström 2024';
 
   footerText.appendChild(copyrightText);
 
