@@ -9,4 +9,5 @@ const mainContainer: HTMLDivElement | null = document.querySelector('#app');
 if (mainContainer) {
   printStartPage(mainContainer);
 }
+
 printFooter();
